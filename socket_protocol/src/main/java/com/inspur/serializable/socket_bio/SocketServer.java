@@ -1,4 +1,4 @@
-package com.inspur.socket_bio;
+package com.inspur.serializable.socket_bio;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

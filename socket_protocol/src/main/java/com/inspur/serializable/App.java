@@ -1,4 +1,4 @@
-package com.inspur;
+package com.inspur.serializable;
 
 /**
  * Hello world!
