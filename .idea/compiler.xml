@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="object_serializable" />
+        <module name="rmi" />
         <module name="socket_protocol" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="distribution_01" target="1.7" />
       <module name="object_serializable" target="1.7" />
+      <module name="rmi" target="1.7" />
       <module name="socket_protocol" target="1.8" />
     </bytecodeTargetLevel>
   </component>

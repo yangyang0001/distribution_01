@@ -11,6 +11,7 @@
     <modules>
         <module>socket_protocol</module>
         <module>object_serializable</module>
+        <module>rmi</module>
     </modules>
 
     <name>distribution_01</name>

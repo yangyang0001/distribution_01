@@ -1,4 +1,4 @@
-package com.inspur.serializable;
+package com.inspur.rmi.serializable;
 
 /**
  * User: YANG

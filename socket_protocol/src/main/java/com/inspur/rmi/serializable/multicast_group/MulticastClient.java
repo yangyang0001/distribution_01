@@ -1,4 +1,4 @@
-package com.inspur.serializable.multicast_group;
+package com.inspur.rmi.serializable.multicast_group;
 
 import java.net.DatagramPacket;
 import java.net.InetAddress;

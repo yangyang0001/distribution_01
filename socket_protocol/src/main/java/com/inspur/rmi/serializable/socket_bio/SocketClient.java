@@ -1,4 +1,4 @@
-package com.inspur.serializable.socket_bio;
+package com.inspur.rmi.serializable.socket_bio;
 
 import java.io.BufferedReader;
 import java.io.IOException;

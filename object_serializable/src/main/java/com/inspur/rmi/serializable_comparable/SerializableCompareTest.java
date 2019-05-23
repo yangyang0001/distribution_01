@@ -1,11 +1,11 @@
-package com.inspur.serializable_comparable;
+package com.inspur.rmi.serializable_comparable;
 
 import com.alibaba.fastjson.JSON;
 import com.baidu.bjf.remoting.protobuf.Codec;
 import com.baidu.bjf.remoting.protobuf.ProtobufProxy;
 import com.caucho.hessian.io.HessianInput;
 import com.caucho.hessian.io.HessianOutput;
-import com.inspur.serializable.Person;
+import com.inspur.rmi.serializable.Person;
 import org.codehaus.jackson.map.ObjectMapper;
 
 import java.io.ByteArrayInputStream;
