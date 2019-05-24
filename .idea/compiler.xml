@@ -9,6 +9,8 @@
         <module name="object_serializable" />
         <module name="rmi" />
         <module name="socket_protocol" />
+        <module name="webservice" />
+        <module name="zookeeper" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +18,8 @@
       <module name="object_serializable" target="1.7" />
       <module name="rmi" target="1.7" />
       <module name="socket_protocol" target="1.8" />
+      <module name="webservice" target="1.7" />
+      <module name="zookeeper" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

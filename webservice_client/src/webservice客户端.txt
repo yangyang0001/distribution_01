@@ -1,0 +1,11 @@
+客户端的代码:内部要用wsdl文件来生成! jdk原生的bin包下
+生成代码的命令如下:
+C:\Users\Administrator\Desktop>wsimport -keep http://localhost:8888/sayHelloService?wsdl
+正在解析 WSDL...
+
+
+
+正在生成代码...
+
+
+正在编译代码...

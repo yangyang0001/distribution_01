@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/object_serializable/object_serializable.iml" filepath="$PROJECT_DIR$/object_serializable/object_serializable.iml" />
       <module fileurl="file://$PROJECT_DIR$/rmi/rmi.iml" filepath="$PROJECT_DIR$/rmi/rmi.iml" />
       <module fileurl="file://$PROJECT_DIR$/socket_protocol/socket_protocol.iml" filepath="$PROJECT_DIR$/socket_protocol/socket_protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservice/webservice.iml" filepath="$PROJECT_DIR$/webservice/webservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservice_client/webservice_client.iml" filepath="$PROJECT_DIR$/webservice_client/webservice_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper/zookeeper.iml" filepath="$PROJECT_DIR$/zookeeper/zookeeper.iml" />
     </modules>
   </component>
 </project>

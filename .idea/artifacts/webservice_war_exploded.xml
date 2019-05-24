@@ -1,0 +1,34 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="webservice:war exploded">
+    <output-path>$PROJECT_DIR$/webservice/target/webservice</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="webservice" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.13" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.13" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.35" />
+          <element id="library" level="project" name="Maven: com.baidu:jprotobuf:2.1.2" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.0.2" />
+          <element id="library" level="project" name="Maven: javassist:javassist:3.12.1.GA" />
+          <element id="library" level="project" name="Maven: com.google.auto.value:auto-value:1.0-rc2" />
+          <element id="library" level="project" name="Maven: com.google.auto:auto-common:0.3" />
+          <element id="library" level="project" name="Maven: com.google.auto.service:auto-service:1.0-rc2" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:17.0" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm:4.1" />
+          <element id="library" level="project" name="Maven: org.apache.velocity:velocity:1.7" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.1" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.4" />
+          <element id="library" level="project" name="Maven: com.baidu:jprotobuf-protoparser:1.0.0" />
+          <element id="library" level="project" name="Maven: com.caucho:hessian:4.0.38" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/webservice/target/webservice/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="webservice/web/Web" />
+    </root>
+  </artifact>
+</component>
