@@ -29,7 +29,7 @@ public class AuthDeleteDemo implements Watcher{
         try {
             //创建另外一个客户端测试是否能够删除
             ZooKeeper zooKeeper2 = new ZooKeeper(ZOOKEEPER_CONNECTION_URL, 5000, new AuthDeleteDemo());
-            zooKeeper2.addAuthInfo("digest", "root:root".getBytes());
+            zooKeeper2.addAuthInfo("digest", "root:11111".getBytes());
 
             Thread.sleep(3000);
             //删除节点
