@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/distribution_01.iml" filepath="$PROJECT_DIR$/distribution_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distribution_lock/distribution_lock.iml" filepath="$PROJECT_DIR$/distribution_lock/distribution_lock.iml" />
       <module fileurl="file://$PROJECT_DIR$/object_serializable/object_serializable.iml" filepath="$PROJECT_DIR$/object_serializable/object_serializable.iml" />
       <module fileurl="file://$PROJECT_DIR$/rmi/rmi.iml" filepath="$PROJECT_DIR$/rmi/rmi.iml" />
       <module fileurl="file://$PROJECT_DIR$/socket_protocol/socket_protocol.iml" filepath="$PROJECT_DIR$/socket_protocol/socket_protocol.iml" />
